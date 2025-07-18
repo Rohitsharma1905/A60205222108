@@ -1,4 +1,3 @@
-import { Log } from './utils/log';
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import ShortenerPage from './components/ShortenerPage';
